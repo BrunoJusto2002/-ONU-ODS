@@ -1,0 +1,29 @@
+/* Adding a body color  */
+body{
+    background-color: #DD1367;
+}
+/* Modifying and fixing the main title */
+h1{
+    color: white;
+    width: bold;
+    font-size: 50px;
+    text-align: center;
+}
+/* Modifying and fixing the paragraph*/
+p{
+    color: white;
+    line-height: 20px;
+    margin-left: 3px;
+}
+/* Modifying and fixing the subtitle*/
+h3{
+    color: white;
+    width: bold;
+    text-align: left;
+}
+/* Modifying the position of the image*/
+img {
+    display: block;
+    margin: 0px auto;
+    margin-top: 15px    ;
+}
